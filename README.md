@@ -1,18 +1,20 @@
-# React-Native ShoppingCart + Firebase
+# iMart 
 
-Developing a **Shopping cart (Ecommerse) Application using React-Native**
+Developing a **iMart (Ecommerse) Application using React-Native**
 
-## Functionalities
+## APK-Release
 
-1. User Registration using Firebase Authentication (Using Email/Password)
-2. CRUD Operations like
-   - User can Add product to his cart
-   - Admin can add product to the product list
-   - Admin can edit/delete the product
-3. Security
-   - Authentication and Authorization
+https://drive.google.com/open?id=1sob3U_hDQ0I6PRupJnUoN07k-4KHHqH0
 
 ## Tools and Technologies
 
 - Technology: React, React-Native, UI-Kitten, React-Navigation.
-- Database : Firebase
+
+## Developing
+
+- Open your terminal or command prompt
+- Type git clone https://github.com/treidoristivan/iMart.git
+- Open the project directory and Type npm install/yarn install to install all dependencies
+- Type react-native run-android in the terminal or command prompt to run the App Android version
+- Type react-native run-ios in the terminal or command prompt to run the App IOS version
+
