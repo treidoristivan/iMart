@@ -1,0 +1,4 @@
+#Thu May 14 00:56:20 ICT 2020
+base.0=C\:\\Users\\TRPICOS\\Desktop\\react-native-shopping-cart\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
